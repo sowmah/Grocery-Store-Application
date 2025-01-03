@@ -8,20 +8,20 @@ The application leverages Python for the backend, HTML/CSS/JavaScript for the fr
 
 Features
 
-Product Management: Add, update, and delete products in the inventory.
-Order Processing: Manage customer orders efficiently.
-Detailed Order Tracking: View and manage order details.
-Responsive Design: User-friendly and compatible with various devices.
-Secure Database Integration: Ensures safe and efficient data handling using MySQL
+- Product Management: Add, update, and delete products in the inventory.
+- Order Processing: Manage customer orders efficiently.
+- Detailed Order Tracking: View and manage order details.
+- Responsive Design: User-friendly and compatible with various devices.
+- Secure Database Integration: Ensures safe and efficient data handling using MySQL
 
 Technologies Used
 
-Backend :
--Python
+- Backend :
+  Python
   Flask/Django for server-side operations.
   Custom modules for database connection and functionality.
   MySQL for database management.
 
-Frontend :
-HTML, CSS, Bootstrap for styling and layout.
-JavaScript and jQuery for dynamic interactions
+- Frontend :
+  HTML, CSS, Bootstrap for styling and layout.
+  JavaScript and jQuery for dynamic interactions
