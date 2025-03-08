@@ -1,4 +1,4 @@
-# Grocery-Store-Application
+#  Grocery Store Management Application
 
 Description
 
